@@ -327,8 +327,8 @@ Possible future enhancements include:
 
 # Author
 
-Ramesh Konkipudi
+Gude Gnanendra
 Full Stack Developer (MERN)
 
 GitHub Repository
-[https://github.com/Konkipudi-Ramesh/trizen](https://github.com/Konkipudi-Ramesh/trizen)
+[https://github.com/Konkipudi-Ramesh/trizen](https://github.com/Gnanii-g/trizen)
